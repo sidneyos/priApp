@@ -1,0 +1,26 @@
+C:\Users\Sydney\Documents\programaçao\primeiroaplicativo\primeiroaplicativo\bin\Debug\primeiroaplicativo.exe.config
+C:\Users\Sydney\Documents\programaçao\primeiroaplicativo\primeiroaplicativo\bin\Debug\primeiroaplicativo.exe
+C:\Users\Sydney\Documents\programaçao\primeiroaplicativo\primeiroaplicativo\bin\Debug\primeiroaplicativo.pdb
+C:\Users\Sydney\Documents\programaçao\primeiroaplicativo\primeiroaplicativo\obj\Debug\primeiroaplicativo.csprojAssemblyReference.cache
+C:\Users\Sydney\Documents\programaçao\primeiroaplicativo\primeiroaplicativo\obj\Debug\primeiroaplicativo.frmprincipal.resources
+C:\Users\Sydney\Documents\programaçao\primeiroaplicativo\primeiroaplicativo\obj\Debug\primeiroaplicativo.Properties.Resources.resources
+C:\Users\Sydney\Documents\programaçao\primeiroaplicativo\primeiroaplicativo\obj\Debug\primeiroaplicativo.csproj.GenerateResource.cache
+C:\Users\Sydney\Documents\programaçao\primeiroaplicativo\primeiroaplicativo\obj\Debug\primeiroaplicativo.csproj.CoreCompileInputs.cache
+C:\Users\Sydney\Documents\programaçao\primeiroaplicativo\primeiroaplicativo\obj\Debug\primeiroaplicativo.exe
+C:\Users\Sydney\Documents\programaçao\primeiroaplicativo\primeiroaplicativo\obj\Debug\primeiroaplicativo.pdb
+C:\Users\Sydney\Documents\programaçao\primeiroaplicativo\primeiroaplicativo\obj\Debug\primeiroaplicativo.frmpropriedadescheckbox.resources
+C:\Users\Sydney\Documents\programaçao\primeiroaplicativo\primeiroaplicativo\obj\Debug\primeiroaplicativo.frmvisualisadordeimagem.resources
+C:\Users\Sydney\Documents\programaçao\primeiroaplicativo\primeiroaplicativo\obj\Debug\primeiroaplicativo.frmtabuada.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\basico\primeiroaplicativo\primeiroaplicativo\bin\Debug\primeiroaplicativo.exe.config
+C:\Users\Sydney\Documents\programaçao c#\C#\basico\primeiroaplicativo\primeiroaplicativo\bin\Debug\primeiroaplicativo.exe
+C:\Users\Sydney\Documents\programaçao c#\C#\basico\primeiroaplicativo\primeiroaplicativo\bin\Debug\primeiroaplicativo.pdb
+C:\Users\Sydney\Documents\programaçao c#\C#\basico\primeiroaplicativo\primeiroaplicativo\obj\Debug\primeiroaplicativo.csprojAssemblyReference.cache
+C:\Users\Sydney\Documents\programaçao c#\C#\basico\primeiroaplicativo\primeiroaplicativo\obj\Debug\primeiroaplicativo.frmprincipal.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\basico\primeiroaplicativo\primeiroaplicativo\obj\Debug\primeiroaplicativo.frmpropriedadescheckbox.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\basico\primeiroaplicativo\primeiroaplicativo\obj\Debug\primeiroaplicativo.frmtabuada.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\basico\primeiroaplicativo\primeiroaplicativo\obj\Debug\primeiroaplicativo.frmvisualisadordeimagem.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\basico\primeiroaplicativo\primeiroaplicativo\obj\Debug\primeiroaplicativo.Properties.Resources.resources
+C:\Users\Sydney\Documents\programaçao c#\C#\basico\primeiroaplicativo\primeiroaplicativo\obj\Debug\primeiroaplicativo.csproj.GenerateResource.cache
+C:\Users\Sydney\Documents\programaçao c#\C#\basico\primeiroaplicativo\primeiroaplicativo\obj\Debug\primeiroaplicativo.csproj.CoreCompileInputs.cache
+C:\Users\Sydney\Documents\programaçao c#\C#\basico\primeiroaplicativo\primeiroaplicativo\obj\Debug\primeiroaplicativo.exe
+C:\Users\Sydney\Documents\programaçao c#\C#\basico\primeiroaplicativo\primeiroaplicativo\obj\Debug\primeiroaplicativo.pdb
